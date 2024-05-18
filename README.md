@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Suraj Verma
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on github
+- 💞️ Looking for chances to work together on open-source projects.
 
 <!---
 SurajVerma009/SurajVerma009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
